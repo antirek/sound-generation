@@ -64,7 +64,9 @@ module.exports = [
     {
         text: 'на этот телефоне нет зарегистрированного абонента', 
         file: 'sounds/user_not_registered_on_this_peer.mp3'
-    }
-    
-    
+    },
+    {
+        text: 'Вы не можете быть удалены из очередей, потому что вы в них не состоите',
+        file: 'sounds/user_cannot_be_removed_from_queues.mp3'
+    },
 ];
