@@ -30,6 +30,10 @@ module.exports = [
         file: 'sounds/operator_already_registred.mp3'
     },
     {
+        text: 'Ошибка, телефон принадлежит другому абоненту',
+        file: 'sounds/phone_has_link_to_other_user.mp3'
+    },
+    {
         text: 'абонент отрегистрирован', 
         file: 'sounds/user_unregistrated.mp3'
     },
